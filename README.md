@@ -1,14 +1,18 @@
 # Bank-Management-System-Cpp
-
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Maintenance](https://img.shields.io/badge/Maintained-Yes-green)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B)
 ### A simple Bank Management System in C++. It allows users to perform various operations such as:
--  Creating a new account,
--  Depositing money,
--  Withdrawing money,
--  Checking account details,
--  Modifying account information,
--  Viewing all existing accounts &
--  Deleting an account.
+## 🏦 Core Functions
 
+🆕 ➜ Create Account  
+💰 ➜ Deposit Money  
+💸 ➜ Withdraw Money  
+📊 ➜ Account Details  
+✏️ ➜ Edit Account Info  
+👥 ➜ View All Accounts  
+🗑️ ➜ Delete Account  
 ## Output:
 ![image](https://github.com/mhy20401/Bank-Management-System-Cpp/assets/99351091/29b1571e-cac9-47b4-b0e1-32fa08bae741)
 
@@ -47,5 +51,5 @@
 
 ![image](https://github.com/mhy20401/Bank-Management-System-Cpp/assets/99351091/df31d95e-8325-4420-98d8-11f5d97963ba)
 
-## Contributors:
--  Muhammad Hammad Yousaf - mhy20401 (https://github.com/mhy20401)
+## GOODLUCK
+
